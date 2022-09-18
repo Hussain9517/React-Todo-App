@@ -1,0 +1,110 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Philosopher:wght@400;700&display=swap');
+
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+body
+{
+  font-family: 'Philosopher', sans-serif;
+  /* Created with https://www.css-gradient.com */
+  background: #2e2e2e;
+  background: -webkit-linear-gradient(top left, #2a3032, #28373f);
+  background: -moz-linear-gradient(top left, #202b2e, #283035);
+  background: linear-gradient(to bottom right, #1f2020, #212b31);;
+}
+
+.container-fluid
+{
+  /* Created with https://www.css-gradient.com */
+  background: #1f2122;
+  background: -webkit-linear-gradient(top left, #31393b, #313d42);
+  background: -moz-linear-gradient(top left, #394345, #3c4549);
+  background: linear-gradient(to bottom right, #45494a, #1f2325);;
+  height: 757px;
+}
+
+.Container-margin
+{
+  background-color: rgb(14, 13, 13);
+  height: 800px;
+  /* Created with https://www.css-gradient.com */
+  background: #545560;
+  background: -webkit-linear-gradient(top left, #545560, #1a1c1c);
+  background: -moz-linear-gradient(top left, #363638, #393c3d);
+  background: linear-gradient(to bottom right, #2f3035, #272829);
+  border-radius: 20px;
+  padding: 0px;
+}
+
+h1
+{
+  text-align: center;
+  font-family: 'Philosopher', sans-serif;
+  padding-top: 100px;
+  font-weight: bolder;
+  color: #ffffff;
+}
+
+input.text-input.form-control
+
+{
+ margin-top: 50px;
+ width: 50%;
+}
+
+form.form
+{
+    margin-left: 26.5rem;
+}
+
+button.btn-add.btn
+{
+    padding: 8px 20px;
+    font-size: 20px;
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+    color: white;
+    border: 2px solid white;
+    margin-top: 30px;
+    margin-left: 9.2rem;
+    margin-bottom: 40px;
+
+}
+
+button.btn-add.btn:hover
+{
+    color: white;
+    border: 2px solid white;
+
+}
+
+input.list
+{
+    background-color: transparent;
+    color: white;
+    font-family: 'Philosopher', sans-serif;
+    text-align: center;
+
+
+}
+
+.task-button
+{
+    padding: 6px 12px;
+    margin-top: 20px;
+    margin-left: 0.8rem;
+    margin-bottom: 20px;
+}
+.icons
+{
+    margin-left: 33.7rem;
+}
+
+
+
